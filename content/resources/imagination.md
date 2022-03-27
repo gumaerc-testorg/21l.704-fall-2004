@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: db574398-dd5e-d534-bce6-a63a993b6e63
 resourcetype: Document
 title: imagination.pdf
 uid: 1edb3557-16af-0274-0807-2025201acc48

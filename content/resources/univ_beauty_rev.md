@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: db574398-dd5e-d534-bce6-a63a993b6e63
 resourcetype: Document
 title: univ_beauty_rev.pdf
 uid: ed5fb2fd-5cfc-8f4b-8913-7bfbd669c582

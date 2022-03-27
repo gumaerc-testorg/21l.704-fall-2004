@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: db574398-dd5e-d534-bce6-a63a993b6e63
 resourcetype: Document
 title: thomson_summer.pdf
 uid: cd927947-a26a-387c-25b1-e79e71f54503

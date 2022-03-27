@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: db574398-dd5e-d534-bce6-a63a993b6e63
 resourcetype: Document
 title: luc_essay_jnp_v2.pdf
 uid: b1dcf457-2398-2aa6-4314-5120ece5fa70
