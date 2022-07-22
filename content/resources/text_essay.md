@@ -6,6 +6,7 @@ file: /courses/21l-704-studies-in-poetry-british-poetry-and-the-sciences-of-the-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: text_essay.pdf
 uid: 717abbb9-0dd2-2392-e2dd-5b6de7645bc5
 ---
 This essay is an analysis of Matthew Greene's 'The spleen' by one of the students.
-

@@ -6,6 +6,7 @@ file: /courses/21l-704-studies-in-poetry-british-poetry-and-the-sciences-of-the-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: pope_analysis.pdf
 uid: 07c66fc4-845f-e885-a577-51c63d571ec0
 ---
 First draft for the first essay assignment courtesy of William Walsh, a student in the course.
-

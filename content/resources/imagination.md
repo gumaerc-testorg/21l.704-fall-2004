@@ -6,6 +6,7 @@ file: /courses/21l-704-studies-in-poetry-british-poetry-and-the-sciences-of-the-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: imagination.pdf
 uid: 1edb3557-16af-0274-0807-2025201acc48
 ---
 This is an essay on the analysis of the poem, The pleasures of imagination by Mark Akenside. The essay states the role of imagination and reason in morality.
-

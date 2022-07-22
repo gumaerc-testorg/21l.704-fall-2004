@@ -6,6 +6,7 @@ file: /courses/21l-704-studies-in-poetry-british-poetry-and-the-sciences-of-the-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: luc_essay_jnp_v2.pdf
 uid: b1dcf457-2398-2aa6-4314-5120ece5fa70
 ---
 Final Revision for the first essay assignment courtesy of JoHanna Przybylowski, a student in the class.
-

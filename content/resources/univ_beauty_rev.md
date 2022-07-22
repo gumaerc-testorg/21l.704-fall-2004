@@ -6,6 +6,7 @@ file: /courses/21l-704-studies-in-poetry-british-poetry-and-the-sciences-of-the-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: univ_beauty_rev.pdf
 uid: ed5fb2fd-5cfc-8f4b-8913-7bfbd669c582
 ---
 Final revision for the first essay assignment courtesy of Jonathan Blum, a student in the class.
-
