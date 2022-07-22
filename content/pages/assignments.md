@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides descriptions of the course assignments and examples
+  of student work.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: db574398-dd5e-d534-bce6-a63a993b6e63
 ---
@@ -119,7 +124,7 @@ STUDENT WORKS
 James Thomson The Seasons 'Summer'
 {{< tdclose >}}
 {{< tdopen >}}
-Lindsay Hays ([PDF]({{< baseurl >}}/resources/thomson_summer))
+Lindsay Hays ({{% resource_link cd927947-a26a-387c-25b1-e79e71f54503 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,7 +133,7 @@ Lindsay Hays ([PDF]({{< baseurl >}}/resources/thomson_summer))
 An Analysis of Matthew Green's 'The Spleen'
 {{< tdclose >}}
 {{< tdopen >}}
-Emily Proctor ([PDF]({{< baseurl >}}/resources/041122_text))
+Emily Proctor ({{% resource_link 7b5da388-fc3e-4cd7-10de-72d496ba305b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -137,7 +142,7 @@ Emily Proctor ([PDF]({{< baseurl >}}/resources/041122_text))
 Whatever Is, Is Right
 {{< tdclose >}}
 {{< tdopen >}}
-William Walsh ([PDF]({{< baseurl >}}/resources/pope_analysis))
+William Walsh ({{% resource_link 07c66fc4-845f-e885-a577-51c63d571ec0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -152,7 +157,7 @@ William Walsh ([PDF]({{< baseurl >}}/resources/pope_analysis))
 For God's Sake! - The Need for a Creator in Brooke's Universal Beauty
 {{< tdclose >}}
 {{< tdopen >}}
-Jonathan Blum ([PDF]({{< baseurl >}}/resources/univ_beauty_rev))
+Jonathan Blum ({{% resource_link ed5fb2fd-5cfc-8f4b-8913-7bfbd669c582 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,7 +166,7 @@ Jonathan Blum ([PDF]({{< baseurl >}}/resources/univ_beauty_rev))
 The Roles of Imagination and Reason in Morality
 {{< tdclose >}}
 {{< tdopen >}}
-Youngsun Cho ([PDF]({{< baseurl >}}/resources/imagination))
+Youngsun Cho ({{% resource_link 1edb3557-16af-0274-0807-2025201acc48 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -170,7 +175,7 @@ Youngsun Cho ([PDF]({{< baseurl >}}/resources/imagination))
 Impact of the Fundamental Tension between Poetic Craft and the Scientific Principles which Lucretius Introduces in De Rerum Natura
 {{< tdclose >}}
 {{< tdopen >}}
-JoHanna Przybylowski ([PDF]({{< baseurl >}}/resources/luc_essay_jnp_v2))
+JoHanna Przybylowski ({{% resource_link b1dcf457-2398-2aa6-4314-5120ece5fa70 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -185,7 +190,7 @@ JoHanna Przybylowski ([PDF]({{< baseurl >}}/resources/luc_essay_jnp_v2))
 Wordsworth's Examination of the Role of Nature in Reason
 {{< tdclose >}}
 {{< tdopen >}}
-JoHanna Przybylowski ([PDF]({{< baseurl >}}/resources/wordsworth_essay))
+JoHanna Przybylowski ({{% resource_link 5388c699-0133-723e-ba02-e671278018d1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -194,7 +199,7 @@ JoHanna Przybylowski ([PDF]({{< baseurl >}}/resources/wordsworth_essay))
 The Torch of Experience
 {{< tdclose >}}
 {{< tdopen >}}
-William Walsh ([PDF]({{< baseurl >}}/resources/final_essay))
+William Walsh ({{% resource_link 0f474613-0358-9a5f-db45-26866592f468 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
