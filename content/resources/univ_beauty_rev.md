@@ -3,6 +3,7 @@ content_type: resource
 description: Final revision for the first essay assignment courtesy of Jonathan Blum,
   a student in the class.
 file: /courses/21l-704-studies-in-poetry-british-poetry-and-the-sciences-of-the-mind-fall-2004/ed5fb2fd5cfc8f4b89137bfbd669c582_univ_beauty_rev.pdf
+file_size: 74164
 file_type: application/pdf
 learning_resource_types:
 - Assignments

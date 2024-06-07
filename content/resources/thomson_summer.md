@@ -3,6 +3,7 @@ content_type: resource
 description: Draft for the first essay assignment courtesy of Lindsay Hays, a student
   in the class.
 file: /courses/21l-704-studies-in-poetry-british-poetry-and-the-sciences-of-the-mind-fall-2004/cd927947a26a387c25b1e79e71f54503_thomson_summer.pdf
+file_size: 82746
 file_type: application/pdf
 learning_resource_types:
 - Assignments
