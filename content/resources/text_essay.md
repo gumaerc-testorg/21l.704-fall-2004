@@ -2,7 +2,7 @@
 content_type: resource
 description: This essay is an analysis of Matthew Greene's 'The spleen' by one of
   the students.
-file: /courses/21l-704-studies-in-poetry-british-poetry-and-the-sciences-of-the-mind-fall-2004/717abbb90dd22392e2dd5b6de7645bc5_text_essay.pdf
+file: /ol-ocw-studio-app/courses/21l-704-studies-in-poetry-british-poetry-and-the-sciences-of-the-mind-fall-2004/717abbb90dd22392e2dd5b6de7645bc5_text_essay.pdf
 file_size: 57925
 file_type: application/pdf
 learning_resource_types:
