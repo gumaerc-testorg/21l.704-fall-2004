@@ -16,7 +16,7 @@ Assignment 1
 
 ### The scientific / didactic poem - textual analysis and website project
 
-1.  Choose a poem from among the scientific or didactic poems (or parodies thereof) listed below; poems primarily available online at {{% resource_link "08e297ff-79db-4a8c-b0ab-12c692ae7bbf" "Literature Online" %}} are indicated with an asterisk, though some of these poems may still be readily available; speak to your librarian or ask me if you have any difficulty finding reading copies.
+1.  Choose a poem from among the scientific or didactic poems (or parodies thereof) listed below; poems primarily available online at [Literature Online](http://lion.chadwyck.com/) are indicated with an asterisk, though some of these poems may still be readily available; speak to your librarian or ask me if you have any difficulty finding reading copies.
     *   Lucretius, De Rerum Natura (On the Nature of the Universe)
     *   Alexander Pope, Essay on Man
     *   Mark Akenside, The Pleasures of Imagination

@@ -17,7 +17,7 @@ Keats, John. _Complete Poems_. Cambridge, MA: Belknap Press of Harvard Universit
 
 Wordsworth, William, and S. T. Coleridge. _Lyrical Ballads_. 2nd ed. London, NY: Routledge, 1991. ISBN: 0415063884.
 
-Readings listed as "Available Online" are available at {{% resource_link "08e297ff-79db-4a8c-b0ab-12c692ae7bbf" "Literature Online" %}}.
+Readings listed as "Available Online" are available at [Literature Online](http://lion.chadwyck.com/).
 
 {{< tableopen >}}
 {{< theadopen >}}
